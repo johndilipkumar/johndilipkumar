@@ -12,16 +12,16 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🌱 I'm currently learning Advanced React, Next.js, Three.js, and AI-powered web development.
-- 💼 I'm building modern, responsive, and high-performance web applications.
-- 🤝 I'm looking to collaborate on open-source projects, SaaS products, and AI web applications.
-- 🚀 I'm passionate about creating premium UI/UX experiences and scalable frontend architectures.
-- 📫 Reach me at: jainpogujohnfiverr@gmail.com
-- ⚡ Fun fact: I enjoy turning complex ideas into clean, intuitive user experiences.
+##  About Me
+-  I'm currently learning Advanced React, Next.js, Three.js, and AI-powered web development.
+-  I'm building modern, responsive, and high-performance web applications.
+-  I'm looking to collaborate on open-source projects, SaaS products, and AI web applications.
+   I'm passionate about creating premium UI/UX experiences and scalable frontend architectures.
+-  Reach me at: jainpogujohnfiverr@gmail.com
+-  Fun fact: I enjoy turning complex ideas into clean, intuitive user experiences.
 
 
-## 🧠 My Focus Areas
+##  My Focus Areas
 - Frontend Development
 - React.js
 - Next.js
@@ -92,7 +92,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/john-jainpogu-40aa773b8/?skipRedirect=true">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
